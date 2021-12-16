@@ -2,7 +2,7 @@
     <img width="200%" height="200%" src="https://github.com/jmpshell/jmpshell/blob/main/logo.png" alt="Osint Logo"  href="#OSINT">
 </p>
 
-<h2 align="center">This is a repository of threats identified through open source (OSINT).</h2>
+<h2 align="center"> </h2>
 
 
 <h3 align="left">Connect with me:</h3>
