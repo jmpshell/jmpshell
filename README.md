@@ -1,4 +1,4 @@
-  <img align="center" alt="GIF" src="https://github.com/jmpshell/jmpshell/blob/main/logo.png" width="50%" height="50%" />
+  <img align="center" alt="GIF" src="https://github.com/jmpshell/jmpshell/blob/main/github.JPG" width="50%" height="50%" />
 
 
 <h2 align="center"> </h2>
