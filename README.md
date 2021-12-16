@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200%" height="200%" src="https://github.com/jmpshell/jmpshell/blob/main/capa_twitter.png" alt="Osint Logo"  href="#OSINT">
+    <img width="200%" height="200%" src="https://github.com/jmpshell/jmpshell/blob/main/logo.png" alt="Osint Logo"  href="#OSINT">
 </p>
 
 <h2 align="center">This is a repository of threats identified through open source (OSINT).</h2>
