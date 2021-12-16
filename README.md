@@ -1,6 +1,8 @@
-  <h2 align="center"> </h2>
+  <p align="center">
+    <img width="100%" height="100%" src="https://github.com/jmpshell/jmpshell/blob/main/github.JPG" >
+</p>
+  
 
-  <img align="center" src="https://github.com/jmpshell/jmpshell/blob/main/github.JPG" width="50%" height="50%" />
 
 
 <h2 align="center"> </h2>
