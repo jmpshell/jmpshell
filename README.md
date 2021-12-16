@@ -1,4 +1,3 @@
-### Hi there 👋
 <p align="center">
     <img width="30%" height="30%" src="https://github.com/jmpshell/jmpshell/blob/main/wallpaper5.png" alt="Osint Logo"  href="#OSINT">
 </p>
