@@ -13,7 +13,6 @@
  </h2>
 
 
-<h2 align="center"> </h2>
 
 
 <a href="https://discord.gg/jmpshell">
