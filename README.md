@@ -1,15 +1,6 @@
-<h2 align="center">
-
-```
-     ██ ███    ███ ██████  ███████ ██   ██ ███████ ██      ██      
-     ██ ████  ████ ██   ██ ██      ██   ██ ██      ██      ██      
-     ██ ██ ████ ██ ██████  ███████ ███████ █████   ██      ██      
-██   ██ ██  ██  ██ ██           ██ ██   ██ ██      ██      ██      
- █████  ██      ██ ██      ███████ ██   ██ ███████ ███████ ███████ 
-```
- </h2>
-
-
+<p align="center">
+    <img src="https://github.com/jmpshell/jmpshell/blob/main/logo.jpg">
+</p>
 
 
 <a href="https://twitter.com/raphaelmendonca">
