@@ -3,12 +3,6 @@
 </p>
 
 
-<a href="https://twitter.com/raphaelmendonca">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/raphaelmendonca">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <a href="https://app.hackthebox.com/profile/256656">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/jmpshell/jmpshell/main/htb.png" />
