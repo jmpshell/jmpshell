@@ -7,6 +7,6 @@
 <a href="https://app.hackthebox.com/profile/256656">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/jmpshell/jmpshell/main/htb.png" />
 </a>
-<a href="https://app.hackthebox.com/profile/256656">
+<a href="https://linkedin.com/in/raphaelmendonca/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/jmpshell/jmpshell/main/lkd.png" />
 </a>
