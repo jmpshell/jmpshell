@@ -14,5 +14,5 @@
   <img align="left" width="22px" src="https://raw.githubusercontent.com/jmpshell/jmpshell/main/twt.png" />
 </a>
 <a href="https://jmpshell.github.io">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/jmpshell/jmpshell/main/blg.png" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/jmpshell/jmpshell/main/blr.png" />
 </a>
