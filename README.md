@@ -10,3 +10,6 @@
 <a href="https://linkedin.com/in/raphaelmendonca/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/jmpshell/jmpshell/main/lkd.png" />
 </a>
+<a href="https://twitter.com/raphaelmendonca">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/jmpshell/jmpshell/main/twt.png" />
+</a>
